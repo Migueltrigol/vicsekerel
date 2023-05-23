@@ -52,7 +52,8 @@ The following line will produce a video of the simulation. Use the parameter "en
 
 ```my_model.get_animation(entity_screen_size=15)```
 
-![alt text](snapshots_animation_examples.png "Title")
+
+![This is an image](https://github.com/Migueltrigol/vicsekerel/blob/master/snapshots_animation_examples.PNG)
 
 ## **Note...**
 
