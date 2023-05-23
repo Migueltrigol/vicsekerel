@@ -1,4 +1,8 @@
+
+
 # **Vicsekerel**
+
+![Alt Text](outputs/demo.gif)
 
 Implemetation of the Vicsek model in Python. It allows users to edit the parameters dominating the dynamics of the system and to generate a video of the resulting simulation.
 
@@ -53,8 +57,6 @@ The following line will produce a video of the simulation. Use the parameter "en
 ```my_model.get_animation(entity_screen_size=15)```
 
 
-![This is an image](https://github.com/Migueltrigol/vicsekerel/blob/master/snapshots_animation_examples.PNG)
-
 ## **Note...**
 
-The computational time increases rapidily as the number of entities is increased!
+The computational time increases significantly as the number of entities in the model increases.
