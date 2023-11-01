@@ -4,7 +4,8 @@
 
 ![Alt Text](outputs/demo.gif)
 
-Implemetation of the Vicsek model in Python. It allows users to edit the parameters dominating the dynamics of the system and to generate a video of the resulting simulation.
+Implementation of the Vicsek model in Python. It allows users to edit the parameters dominating the dynamics of the system and to generate a video of the resulting simulation.
+The repository has been packaged and uploaded to Pypi under "vicsekerel" to facilitate its use.
 
 ## **Project Description**
 
